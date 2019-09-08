@@ -1,0 +1,1 @@
+// second solution using for loop
